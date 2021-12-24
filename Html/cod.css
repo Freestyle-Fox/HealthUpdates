@@ -1,0 +1,17 @@
+.hrline{
+    color: black;
+}
+.title{
+    margin: 10px ;
+    margin-left: 20px;
+    text-shadow: black;
+    font-size: 60px;
+}
+.sub_title{
+    margin-left: 170px; 
+    margin-top: -60px; 
+    font-size: medium;
+}
+.ss_title{
+    font-size: small; margin-left: 170px;
+}
